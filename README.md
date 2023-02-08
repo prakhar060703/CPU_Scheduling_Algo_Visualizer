@@ -12,6 +12,12 @@ c.	An animation will appear which describes how the processes are going to ready
 (Assumation: Assume burst time to be 1 sec.)
 
 <img src="Screenshot (1).png"> <br/>
+<img src="Screenshot (2).png"> <br/>
+<img src="Screenshot (3).png"> <br/>
+<img src="Screenshot (4).png"> <br/>
+<img src="Screenshot (5).png"> <br/>
+<img src="Screenshot (6).png"> <br/>
+<img src="Screenshot (7).png"> <br/>
 
 
 
