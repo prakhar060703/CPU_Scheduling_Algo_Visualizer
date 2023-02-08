@@ -11,6 +11,9 @@ b.	Few results like Turnaround time, Response time, Waiting time, CPU utilizatio
 c.	An animation will appear which describes how the processes are going to ready state and how it finally terminates.
 (Assumation: Assume burst time to be 1 sec.)
 
+<img src="Screenshot (1).png"> <br/>
+
+
 
 
 
